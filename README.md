@@ -12,7 +12,7 @@ Todo App ini merupakan aplikasi sederhana untuk mengelola daftar pekerjaan yang 
 - **Tambah Todo**: Pengguna dapat menambahkan todo baru dengan memasukkan deskripsi pekerjaan dan tanggal.
 - **Edit Todo**: Pengguna dapat mengedit todo yang sudah ada. 
 - **Hapus Todo**: Todo yang tidak diperlukan dapat dihapus.
-- **Ganti Background**:Pengguna dapat mengganti warna latar belakang halaman menjadi merah, biru, atau putih.
+- **Ganti Background**: Pengguna dapat mengganti warna latar belakang halaman menjadi merah, biru, atau putih.
 - **Buka Website**:  Tombol untuk membuka Google dan YouTube langsung dari halaman aplikasi.
 
 ## Teknologi yang Digunakan
